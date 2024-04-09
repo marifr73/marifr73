@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou cursando TI na UFERSA - Campus Pau dos Ferros.
 
-- 😄 Pronomes: ela/dela
+- 😄 Pronomes: ela/ela
 
 - 📫 Como entrar em contato comigo:
 
