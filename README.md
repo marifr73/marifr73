@@ -1,16 +1,15 @@
 # Apresentaçao 
 
-
 - 👋 Oi, eu sou @marifr73.
 
 - 👀 Estou interessada em Tecnologia da Informação.
 
 - 🌱 Atualmente estou cursando TI na UFERSA - Campus Pau dos Ferros.
 
-- 😄 Pronomes: ela/ela
+- 😄 Pronomes: ela/dela
 
 - 📫 Como entrar em contato comigo:
 
-- [![Gamil](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/30px-Gmail_icon_%282020%29.svg.png)](https://mail.google.com/mail/u/0/#inbox)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/30px-Instagram-Icon.png)](https://www.instagram.com/maria_francisca73/)
-- [![Discord](https://i.imgur.com/bwYhORX.png)](https://discord.com/channels/@mariafrancisc/)
+[![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_francisca73/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mariafrancisc/)
