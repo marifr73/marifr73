@@ -3,7 +3,9 @@
 - Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
 
 ![Maria Francisca GitHub stats](https://github-readme-stats.vercel.app/api?username=marifr73&show_icons=true&theme=radical)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marifr73&layout=compact&show_icons=true&theme=radical)## 📫 Como entrar em contato comigo:
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marifr73&layout=compact&show_icons=true&theme=radical)
+
+## 📫 Como entrar em contato comigo:
 
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mariafranciscaflor73@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_francisca73/)
