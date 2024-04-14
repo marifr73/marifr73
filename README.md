@@ -16,4 +16,4 @@
 
 ![Maria Francisca GitHub stats](https://github-readme-stats.vercel.app/api?username=marifr73&show_icons=true&theme=radical=dracula)
 
-![snake gif](https://github.com/marifr73/marifr73/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/marifr73/marifr73/blob/output/github-contribution-grid-snake.svg)
