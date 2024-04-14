@@ -18,4 +18,4 @@
 
 ## 
 
-![snake gif](https://github.com/marifr73/marifr73/blob/output/github-contribution-grid-snake.gif)
+<img src="https://i.pinimg.com/originals/5d/4a/1d/5d4a1de78966b048ac92d78f705ef83a.gif" alt="GIF" width="500">
