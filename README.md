@@ -3,9 +3,7 @@
 - Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
 
 ![Maria Francisca GitHub stats](https://github-readme-stats.vercel.app/api?username=marifr73&show_icons=true&theme=radical)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marifr73&layout=compact&show_icons=true&theme=radical)
-
-## 📫 Como entrar em contato comigo:
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marifr73&layout=compact&show_icons=true&theme=radical)## 📫 Como entrar em contato comigo:
 
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafranciscaflor73@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_francisca73/)
@@ -15,7 +13,5 @@
 ## Linguagens de Programação
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-## 
-
-<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="GIF" width="500">
+![C++](https://camo.githubusercontent.com/69ab3d5d4f1a013fb242d8ab82efc118146fcb72791937a0495f05c829d0f9b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
+<img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" alt="GIF" width="500">
