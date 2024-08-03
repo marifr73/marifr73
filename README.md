@@ -23,3 +23,4 @@
 
 ## 
 <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="GIF" width="500">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D49&height=120&section=footer"/>
